@@ -1,10 +1,5 @@
 void main() {
-  List<int> numbers = [
-    13,
-    65,
-    77,
-    99,
-  ];
+  List<int> numbers = [13, 65, 77, 99, 55];
   int smallest = numbers[0];
   int greatest = numbers[0];
 
